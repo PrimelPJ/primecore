@@ -323,4 +323,4 @@ primecore/
 
 ## License
 
-MIT
+Copyright (c) 2026 Primel Jayawardana. All rights reserved.
