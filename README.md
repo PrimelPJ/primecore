@@ -8,8 +8,8 @@ A simulator for a custom 64-bit superscalar CPU architecture that outclasses App
 
 ```
  +---------------------------------------------------------------------------+
- |                        PrimeCore Die                                      |
- |                                                                           |
+ |                        PrimeCore Die                                     |
+ |                                                                          |
  |   +-------------------+   +-------------------+   +-------------------+  |
  |   |     Core 0        |   |     Core 1        |   |    Core N-1       |  |
  |   |  12-stage pipe    |   |  12-stage pipe    |   |  12-stage pipe    |  |
